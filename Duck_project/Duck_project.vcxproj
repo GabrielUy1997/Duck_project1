@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="Duck.cpp" />
     <ClCompile Include="duck2.cpp" />
+    <ClCompile Include="duck3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
