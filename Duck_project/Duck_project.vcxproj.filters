@@ -18,5 +18,8 @@
     <ClCompile Include="Duck.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="duck2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
